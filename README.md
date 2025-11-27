@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**geisteroX/GeisteroX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"¡Hola, soy Alexis! 🚀 Futuro Pentester / Aspirante a Red Team."
 
-Here are some ideas to get you started:
+-Introducción,Actualmente inmerso en el aprendizaje de fundamentos de ciberseguridad a través de
+ laboratorios prácticos y desafíos (CTFs/TryHackMe).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Linux (Comandos fundamentales)
+- 🌐 Redes (TCP/IP, Nmap)
+- 🐍 Python (Básico, scripting)"
+  
+Me veo Trabajando en:
+Explotación de vulnerabilidades (Metasploit) y Hardening de sistemas. Me enfoco en desmantelar la arquitectura 
+para forzar un parche.
+
